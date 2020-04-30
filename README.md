@@ -1,4 +1,4 @@
-# 1 - Introduction
+# 1 - Introduction(updated at 20200430)
 
 This repository contains [platform independent drivers]( http://www.st.com/content/st_com/en/products/embedded-software/mems-and-sensors-software/drivers-for-mems/c-driver-mems.html ) for [STMicroelectronics](www.st.com/mems) sensors. Sensor drivers and examples were written in C programming language.
 
